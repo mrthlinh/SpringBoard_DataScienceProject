@@ -1,4 +1,13 @@
 # Collections of Mini Projects in Spring Board and Solutions
-1. EDA of Funded Projects World Bank
-2. EDA and statistical inference of human temperature
-3. EDA of Racial Discrimination
+- SQL
+- Data Wraggling API
+- EDA of Funded Projects World Bank
+- EDA and statistical inference of human temperature
+- EDA of Racial Discrimination
+- EDA of reduce hospital readmission
+- Linear Regression: Boston Housing Data Set
+- Logistic Regression: Heights and Weights
+- Naive Bayes: Predicting Movie Ratings from Reviews
+- Clustering: Customer Segmentation
+- Take Home Challenge: Relax Challenge
+- Take Home Challenge: Ultimatte Challenge
