@@ -16,3 +16,7 @@ Right now, I'm working part-time intern in SDS, a start-up, we try to develop a 
 
 ## Follow-up
 Get their contacts (email, Linkedin)
+
+## First message in Linkedin
+Hello Vu
+I'm Linh, I'm a graduate student from UTD, my concentration is in Data Science.  I like to surround myself with people who are pursuing AI and data science, so I can have more motivation. It's great if we can connect in Linkedin.
